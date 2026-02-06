@@ -9,7 +9,7 @@ with open("text.txt", "r", encoding="utf-8") as f``` just put the name of the fi
 Then open the console (```Win+R``` → ```cmd```), navigate to the directory where the requirements file is located, and run the following command:
 ```pip install -r requirements.txt```
 After that, you can run the script using
-```python troll_hidlow.py``` or ```py troll_hidlow.py```**
+```python troll_hidlow.py```**
 
 ***
 
@@ -20,10 +20,11 @@ After that, you can run the script using
 
 ### Как установить?
 **скачайте все компоненты, включая requirements
-затем откройте консоль (```win+r``` → ```cmd```), укажите путь где лежит этот requirements, затем вставьте эту команду:
-```pip install -r requirements.txt```, затем вы можете запустить скрипт ```python troll_hidlow.py``` или ```py troll_hidlow.py```**
+затем откройте консоль (```win+r``` → ```cmd```), укажите путь где лежит requirements, затем вставьте эту команду:
+```pip install -r requirements.txt```, затем вы можете запустить скрипт ```python main.py```**
 
 ****
 **developer: [Hidlow](https://t.me/Hidlow)**
+
 
 **channel: [Howoox](https://t.me/howoox)**
